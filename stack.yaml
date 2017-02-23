@@ -1,0 +1,9 @@
+flags: {}
+extra-package-dbs: []
+packages:
+- '.'
+- location:
+    git: http://github.com/rahulmutt/haskell-src-exts.git
+    commit: 01d6f391835c4ca6f63f73e55e92a3568a0a958c
+extra-deps: []
+resolver: lts-6.27
